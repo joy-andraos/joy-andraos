@@ -8,11 +8,6 @@
 
 <h3 align="center">✨ Where Code Meets Creativity ✨</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joy&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <a href="https://github.com/joy"><img src="https://img.shields.io/github/followers/joy?style=social" alt="GitHub"/></a>
-</p>
-
 <div align="center">
   
   ```diff
