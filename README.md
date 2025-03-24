@@ -11,9 +11,8 @@
 <div align="center">
   
   ```diff
-  + AI/ML Engineer and Web Developer creating digital experiences +
-  ! Turning coffee into code and data into insights !
-  # Passionate about machine learning, web development, and clean interfaces #
+  AI Engineer and Full-Stack Developer
+  Turning coffee into code and data into insights
   ```
   
 </div>
