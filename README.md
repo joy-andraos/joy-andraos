@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="300" />
 </div>
 
-## <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="40"> Tech Skills
+## 👩‍💻 Tech Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
