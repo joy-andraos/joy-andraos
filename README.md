@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70582&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Joy!;AI+%26+ML+Developer;Full+Stack+Wizard;Code+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70582&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Joy :);AI+%26+ML+Developer;Full+Stack+Wizard;Code+Artist" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -58,30 +58,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
-## ⚡ Stats & Streaks
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy&theme=radical" alt="joy's streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joy&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy&layout=compact&theme=radical" />
-</div>
-
 ## 🌌 My Coding Journey
-
-```
-                     *     .---.
-                          /     \      .      ' .
-                 +       |       |     '        :       *
-                         |  /    |  '     +
-            '            \       |
-        .                 '----'      *
-                 +                       '
-           *                +   ' :
-                                    '
-```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
