@@ -8,15 +8,6 @@
 
 <h3 align="center">✨ Where Code Meets Creativity ✨</h3>
 
-<div align="center">
-  
-  ```diff
-  AI Engineer and Full-Stack Developer
-  Turning coffee into code and data into insights
-  ```
-  
-</div>
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Universe
 
 <div align="center">
