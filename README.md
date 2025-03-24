@@ -1,50 +1,88 @@
-# 👋 Hi, I'm Joy!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70582&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Joy!;AI+%26+ML+Developer;Full+Stack+Wizard;Code+Artist" alt="Typing SVG" />
+</h1>
 
-## 🚀 Full Stack Developer & AI Enthusiast
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="300" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/joy-andraos-9aa53025b/)])
+<h3 align="center">✨ Where Code Meets Creativity ✨</h3>
 
-I build intelligent web applications that combine powerful backends with intuitive frontends. My passion lies in creating AI-driven solutions that solve real-world problems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joy&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <a href="https://github.com/joy"><img src="https://img.shields.io/github/followers/joy?style=social" alt="GitHub"/></a>
+</p>
 
-## 💻 Tech Stack
+<div align="center">
+  
+  ```diff
+  + AI/ML Engineer and Web Developer creating digital experiences +
+  ! Turning coffee into code and data into insights !
+  # Passionate about machine learning, web development, and clean interfaces #
+  ```
+  
+</div>
 
-### Languages
-```python
-languages = ['Python', 'Java', 'C', 'JavaScript']
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Universe
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+</div>
+
+## ⚡ Stats & Streaks
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy&theme=radical" alt="joy's streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joy&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy&layout=compact&theme=radical" />
+</div>
+
+## 🌌 My Coding Journey
+
+```
+                     *     .---.
+                          /     \      .      ' .
+                 +       |       |     '        :       *
+                         |  /    |  '     +
+            '            \       |
+        .                 '----'      *
+                 +                       '
+           *                +   ' :
+                                    '
 ```
 
-### Web Development
-```javascript
-const webSkills = {
-  frontend: ['HTML', 'CSS3', 'JavaScript', 'Tailwind', 'Vue.js'],
-  backend: ['PHP']
-};
-```
-
-### Databases
-```sql
-SELECT * FROM skills WHERE category = 'Database';
--- Results: SQL, Firebase, PostgreSQL
-```
-
-### AI & Machine Learning
-```python
-# My ML toolkit
-import tensorflow as tf
-import keras
-import pandas as pd
-from transformers import pipeline
-import numpy as np
-from sklearn import ensemble
-import seaborn as sns
-
-# The possibilities are endless
-```
-
-### Dev Tools
-```bash
-$ git status
-$ mysql -u joy -p
-$ gcloud init
-$ jira create-issue --project ML-APP
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
