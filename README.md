@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHpwbWpwaDUxc2E1a2I2dnoyNzA5dzk2Yzh3eWU0bHg2a3loYWloZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" width="500" height="300" />
 </div>
 
 ## 👩‍💻 Tech Skills
