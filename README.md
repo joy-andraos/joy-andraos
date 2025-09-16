@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHpwbWpwaDUxc2E1a2I2dnoyNzA5dzk2Yzh3eWU0bHg2a3loYWloZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" width="500" height="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFyNTVmYnltcTZud2U0bWJoaTJ0OTY4Z2tzbTZ2Z2JvOGllcXp5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif" width="500" height="300" />
 </div>
 
 ## 👩‍💻 Tech Skills
