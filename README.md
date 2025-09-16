@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=32d983&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Joy+:);AI+%26+ML+Developer;Full+Stack+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Joy+:);AI+%26+ML+Developer;Full+Stack+Wizard" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YW02YXU2a2R2NGwwMGN5Z212NmFvYWZvNWVsY2JmazQ2Nno0eW43dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ItIWDCyzWUBOvQYWdC/giphy.gif" width="500" height="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YW02YXU2a2R2NGwwMGN5Z212NmFvYWZvNWVsY2JmazQ2Nno0eW43dCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ItIWDCyzWUBOvQYWdC/giphy.gif" width="300" height="300" />
 </div>
 
 ## 👩‍💻 Tech Skills
