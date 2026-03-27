@@ -1,7 +1,7 @@
 <p align="center">Building things at the intersection of AI and the web</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joy-andraos&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
 </div>
 
 <div align="center">
